@@ -1,0 +1,7 @@
+/* overall appearance of the webpage -- style
+/ fonts, colours, positioning, etc */
+
+body{
+    font-family: Verdana;
+    font-size: 1.5em; /* means 150% */
+}
